@@ -1,0 +1,49 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+	background-color: #C0C0C0	;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+#nav-bar img {
+	width: 35px;
+	padding-top: 5px;
+}
+#nav-bar div {
+	text-align: left;
+	margin-bottom: -50px;
+	margin-left: 5px;
+}
+#social-links img {
+	width: 50px;
+	margin-left: 5px;
+}
+div a {
+	text-decoration: none;
+}
+#welcome-statement{
+	text-align: center;
+	margin-top: 100px;
+}
+#social-links {
+	text-align: center;
+}
